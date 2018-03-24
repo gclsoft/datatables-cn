@@ -10,7 +10,7 @@ exclude: ['*.bat','*.iml','*.md','LICENSE','.idea','*.custom']
 #destination: C:\code\xampp\htdocs
 dtversion: 1.10.15
 email: thxopen@datatables.club
-github: https://github.com/ssy341/datatables-cn/blob/gh-pages/
+github: https://github.com/gclsoft/datatables-cn/blob/gh-pages/
 
 # page config
 plugins: [jekyll-paginate]
